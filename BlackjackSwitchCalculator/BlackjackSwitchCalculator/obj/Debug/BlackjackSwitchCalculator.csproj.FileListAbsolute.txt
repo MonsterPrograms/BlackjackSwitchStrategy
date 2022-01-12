@@ -1,0 +1,9 @@
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\bin\Debug\BlackjackSwitchCalculator.exe.config
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\bin\Debug\BlackjackSwitchCalculator.exe
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\bin\Debug\BlackjackSwitchCalculator.pdb
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\obj\Debug\BlackjackSwitchCalculator.MainForm.resources
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\obj\Debug\BlackjackSwitchCalculator.Properties.Resources.resources
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\obj\Debug\BlackjackSwitchCalculator.csproj.GenerateResource.cache
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\obj\Debug\BlackjackSwitchCalculator.csproj.CoreCompileInputs.cache
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\obj\Debug\BlackjackSwitchCalculator.exe
+C:\Users\monst\source\repos\BlackjackSwitchCalculator\BlackjackSwitchCalculator\obj\Debug\BlackjackSwitchCalculator.pdb
